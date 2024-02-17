@@ -1,2 +1,2 @@
 # Tic-Tac_Toe
-Simple tic toc toe game made in java
+ Tic-Tac-Toe game made in java
